@@ -2,7 +2,7 @@
 
 ## Description
 
-Galaxy focus on creating custom templates and help you extract information based on `spatial` information or through `LLMs`. Galaxy also helps you create tables detected in your template.
+Galaxy focus on creating custom templates and help you extract information through intelligent `Gemini` Models. Galaxy also helps you create tables detected in your template.
 
 Each galaxy model contains multiple templates. The number of fields to be extracted within a model are same. However, each template can have different fields to be extracted.
 
@@ -11,6 +11,7 @@ Each galaxy model contains multiple templates. The number of fields to be extrac
 ### Step 1: 
 
 Login to [staple.io](https://staple.io/login)
+
 Please contact josh@staple.io for creating an account.
 
 ![login.png](./docs/login.png)
