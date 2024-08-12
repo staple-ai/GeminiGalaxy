@@ -66,6 +66,10 @@ Once you have tagged all the fields that you want to extract, click on complete 
 
 ## Step3: Upload a Scan
 
+Now that you have created a custom model, go to scanning area.
+
+![scanning_area.png](./docs/scanning_area/goto_scanning.png)
+
 Create a new queue
 
 ![Create_new_queue.png](./docs/scanning_area/Create_new_queue.png)
