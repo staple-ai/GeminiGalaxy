@@ -11,6 +11,7 @@ Each galaxy model contains multiple templates. The number of fields to be extrac
 ### Step 1: 
 
 Login to [staple.io](https://staple.io/login)
+Please contact josh@staple.io for creating an account.
 
 ![login.png](./docs/login.png)
 
