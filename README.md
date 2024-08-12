@@ -2,7 +2,7 @@
 
 ## Description
 
-Galaxy focus on creating custom templates and help you extract information through intelligent `Gemini` Models. Galaxy also helps you create tables detected in your template.
+Galaxy focus on creating custom templates and help you extract information through intelligent `Gemini` Models. Galaxy also helps you capture tables detected in your template.
 
 Each galaxy model contains multiple templates. The number of fields to be extracted within a model are same. However, each template can have different fields to be extracted.
 
@@ -12,7 +12,7 @@ Each galaxy model contains multiple templates. The number of fields to be extrac
 
 Login to [staple.io](https://staple.io/login)
 
-Please contact josh@staple.io for creating an account.
+Please contact [josh\@staple.io](mailto:josh@staple.io) for creating an account.
 
 ![login.png](./docs/login.png)
 
@@ -43,7 +43,7 @@ Once your document is uploaded clicked on your document. And select the detectio
 `Detection Methods`: Detection methods are of two types: 
 
 1. Positional Based: Where we use the spatial information to extract information.
-2. Intelligence Based: Where we leverage LLMs to extract information.
+2. Intelligence Based: Where we leverage Gemini 1.5-Pro to extract information.
    
 ![detection_method.png](./docs/galaxy_model/select_detection_method.png)
 
@@ -53,7 +53,7 @@ tag keywords and data_area.
 
 ![mapping_data_area.png](./docs/galaxy_model/mapping_data_area.png)
 
-Once you have tagged the keywords and data_area, If you have selected `intelligence based` extraction, you must add a description for your field.
+Once you have tagged the keywords and data_area, If you have selected `intelligence based` extraction, you must add a description for your field. This will help Gemini understand what to extract.
 ![add_field_description.png](./docs/galaxy_model/add_field_description.png)
 
 Now you must select the field `data_type` which best describes your field value.
